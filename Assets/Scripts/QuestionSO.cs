@@ -11,7 +11,7 @@ public class QuestionSO : ScriptableObject
     [TextArea(2,6)]
 
     /*we've serialized this field so that we can only access and change this variable from the 
-    inspector but but becuase the variable is still private we cannot edit it directly from another
+    inspector but becuase the variable is still private we cannot edit it directly from another
     script*/
    [SerializeField]string question = "Enter new question text here";
    

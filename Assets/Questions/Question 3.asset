@@ -13,3 +13,9 @@ MonoBehaviour:
   m_Name: Question 3
   m_EditorClassIdentifier: 
   question: What does retrograde motion mean?
+  answers:
+  - Forwards
+  - backwards
+  - apparent forwards
+  - apparent backwards
+  correctAnswerIndex: 3

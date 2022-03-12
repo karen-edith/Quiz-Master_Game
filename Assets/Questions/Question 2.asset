@@ -13,3 +13,9 @@ MonoBehaviour:
   m_Name: Question 2
   m_EditorClassIdentifier: 
   question: How long is a martian year?
+  answers:
+  - 300 years
+  - 1 year
+  - 10 years
+  - 1.5 years
+  correctAnswerIndex: 3

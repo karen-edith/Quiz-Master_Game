@@ -13,3 +13,9 @@ MonoBehaviour:
   m_Name: Question 5
   m_EditorClassIdentifier: 
   question: How far away is the closes galaxy?
+  answers:
+  - 1.1 million lightyears
+  - 5 million lightyears
+  - 2.5 million lightyears
+  - 10 million lightyears
+  correctAnswerIndex: 2

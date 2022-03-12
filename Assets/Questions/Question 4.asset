@@ -13,3 +13,9 @@ MonoBehaviour:
   m_Name: Question 4
   m_EditorClassIdentifier: 
   question: What is RA and DEC?
+  answers:
+  - Right Asset and Declination
+  - Celestial Coordinate system
+  - Something important
+  - I don't know
+  correctAnswerIndex: 1
